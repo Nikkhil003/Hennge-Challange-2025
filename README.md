@@ -70,15 +70,3 @@ A custom script was written to compute the TOTP using Python's `hmac` and `hashl
 - Tools: GitHub Gist, curl, RFC-compliant TOTP generator
 
 ---
-
-## 📬 Contact
-
-**Email**: your_email@example.com  
-**GitHub**: [yourusername](https://github.com/yourusername)
-
----
-
-## 🙏 Acknowledgments
-
-Thanks to the HENNGE team for this engaging and technically rich challenge. It was a valuable exercise in clean coding, protocol design, and authentication mechanisms.
-
