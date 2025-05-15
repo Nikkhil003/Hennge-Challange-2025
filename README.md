@@ -1,6 +1,6 @@
 # HENNGE Global Internship Program Challenge 2025
 
-This repository contains the solution to **Mission 1** of the HENNGE backend recursion challenge, as part of the **Global Internship Program**. The challenge involves processing structured input data, publishing a private solution, and submitting a secure POST request with TOTP-based authentication.
+This repository contains the solution to **Mission 1** of the HENNGE challenge, as part of the **Global Internship Program**. The challenge involves processing structured input data, publishing a private solution, and submitting a secure POST request with TOTP-based authentication.
 
 ---
 
