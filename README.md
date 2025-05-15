@@ -65,7 +65,7 @@ A custom script was written to compute the TOTP using Python's `hmac` and `hashl
 
 ## 📝 Technologies Used
 
-- Language: Python 3.13+
+- Language: Python 3.13 (as of January 2025) or higher.
 - Libraries: Standard Library Only (no third-party packages)
 - Tools: GitHub Gist, curl, RFC-compliant TOTP generator
 
