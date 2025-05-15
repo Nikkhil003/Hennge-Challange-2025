@@ -23,11 +23,16 @@ Process multiple test cases where each contains:
 
 ---
 
-## ✅ Mission 2 – Secret Gist
+## ✅ Mission 2 – Publish as a Secret Gist
 
-The source code has been published as a **Secret Gist** on GitHub as required.  
-You can find it here:  
-🔒 [Secret Gist Link](https://gist.github.com/YOUR_USERNAME/YOUR_GIST_ID)
+For this mission, the solution (`main.py`) must be published as a **secret GitHub Gist**:
+
+1. Go to [https://gist.github.com](https://gist.github.com)
+2. Create a new **secret** Gist (not public)
+3. Name the file `main.py` and paste your complete solution
+4. Save the Gist and copy the generated URL
+
+This Gist URL will be used in Mission 3 for final submission.
 
 > Note: Replace `YOUR_USERNAME` and `YOUR_GIST_ID` with the actual values before submission.
 
