@@ -42,14 +42,14 @@ This Gist URL will be used in Mission 3 for final submission.
 
 To complete the third mission:
 - A JSON payload was created with:
-  - `github_url`: Link to the secret gist
-  - `contact_email`: My submission email
+  - `gist_url`: Link to the secret gist
+  - `contact_email`: Your submission email
   - `solution_language`: "python"
 
 - The payload was submitted to the HENNGE API using:
   - `Content-Type: application/json`
   - **HTTP Basic Auth** where:
-    - Username: My email
+    - Username: Your email
     - Password: 10-digit **TOTP** generated per [RFC6238](https://datatracker.ietf.org/doc/html/rfc6238) using:
       - HMAC-SHA512
       - Time step: 30 seconds
